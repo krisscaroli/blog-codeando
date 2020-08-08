@@ -1,3 +1,5 @@
+name: Kriss Miñano Rosas
+description: Blog
 theme: jekyll-theme-architect
 paginate: 5
 plugins:
